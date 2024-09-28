@@ -1,0 +1,7 @@
+E:\VKU4\c#\project\exercises_week5\AccountManaging\AccountManaging\bin\Debug\AccountManaging.exe.config
+E:\VKU4\c#\project\exercises_week5\AccountManaging\AccountManaging\bin\Debug\AccountManaging.exe
+E:\VKU4\c#\project\exercises_week5\AccountManaging\AccountManaging\bin\Debug\AccountManaging.pdb
+E:\VKU4\c#\project\exercises_week5\AccountManaging\AccountManaging\obj\Debug\AccountManaging.csproj.AssemblyReference.cache
+E:\VKU4\c#\project\exercises_week5\AccountManaging\AccountManaging\obj\Debug\AccountManaging.csproj.CoreCompileInputs.cache
+E:\VKU4\c#\project\exercises_week5\AccountManaging\AccountManaging\obj\Debug\AccountManaging.exe
+E:\VKU4\c#\project\exercises_week5\AccountManaging\AccountManaging\obj\Debug\AccountManaging.pdb
